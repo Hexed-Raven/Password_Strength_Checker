@@ -26,13 +26,13 @@ This project is built to **verify password strength** and protect users from bru
 Output images
 
 
-![web-view : ](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/web-view.png)
+![web-view : ](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/web-view.PNG)
 
 
-![Mobile-View](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/mobile-view.png)
+![Mobile-View](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/mobile-view.jpg)
 
 
-![Working : ](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/working.png)
+![Working : ](https://github.com/Hexed-Raven/Password_Strength_Checker/blob/main/images/working.PNG)
 
 
 
