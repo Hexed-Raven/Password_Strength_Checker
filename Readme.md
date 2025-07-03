@@ -24,9 +24,16 @@ This project is built to **verify password strength** and protect users from bru
 ---
 
 Output images
-- [Password Strength Checker](https://github.com/your-username/password-checker/blob/main/images/web-view.png)
-- [Password Strength Checker (Dark Mode)](https://github.com/your-username/password-checker/blob/main/images/mobile-view.png)
-- [Password Strength Checker (Dark Mode)](https://github.com/your-username/password-checker/blob/main/images/working.png)
+
+web-view : 
+![Password Strength Checker Screenshot](https://github.com/your-username/password-checker/blob/main/images/web-view.png)
+
+Mobile-View
+![Password Strength Checker Screenshot](https://github.com/your-username/password-checker/blob/main/images/mobile-view.png)
+
+Working : 
+![Password Strength Checker Screenshot](https://github.com/your-username/password-checker/blob/main/images/working.png)
+
 
 
 ## ✨ Features
